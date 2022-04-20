@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHD</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+</head>
+
+<body>
+    
+<h1 class="meta">welcome </h1>
+<h3 class="meta">please enter the details below to check you are in a risk of a heart desease or not.</h3>
+<form>
+    <label class="kl">Sex</label>
+    <br>
+    <input type="text">
+    <br>
+    <label class="kl">Cigaretes per day</label>
+    <br>
+    <input type="number">
+    <br>
+    <label class="kl">Cholestorol level in mg/ltr</label>
+    <br>
+    
+    <input type="number">
+    <br>
+    <label class="kl">systic blood pressure</label>
+    <br>
+    <input type="number">
+    <br>
+    <label class="kl">Diastolic blood pressure</label>
+    <br>
+    <input type="number">
+    <br>
+    <label class="kl">Body mass index</label>
+    <br>
+    <input type="number">
+    <br>
+    <label class="kl">Heart rate</label>
+    <br>
+    <input type="number">
+    <br>
+    <label class="kl">Glucose level</label>
+    <br>
+    <input type="number">
+
+
+
+
+
+
+
+
+
+</form>
+<br>
+<br>
+<button>Predict Condition</button>
+<br>
+<div>
+    <p class="kp">The heart pumps blood with a rhythm determined by a group of pacemaking cells in the sinoatrial node. These generate a current that causes contraction of the heart, traveling through the atrioventricular node and along the conduction system of the heart. The heart receives blood low in oxygen from the systemic circulation, which enters the right atrium from the superior and inferior venae cavae and passes to the right ventricle. From here it is pumped into the pulmonary circulation, through the lungs where it receives oxygen and gives off carbon dioxide. Oxygenated blood then returns to the left atrium, passes through the left ventricle and is pumped out through the aorta to the systemic circulation−where the oxygen is used and metabolized to carbon dioxide.[8] The heart beats at a resting rate close to 72 beats per minute.[9] Exercise temporarily increases the rate, but lowers resting heart rate in the long term, and is good for heart health.</p>
+</div>
+
+
+</body>
+
+</html>

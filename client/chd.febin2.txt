@@ -1,0 +1,22 @@
+.meta{
+    color: #43704b;
+
+}
+.kl{
+    color: #5a5e4b;
+}
+button{
+    background: #302480;
+    color: white;
+}
+div{
+    width: 500px;
+    height: 300px;
+    background:#945481;
+    margin-left: 100px;
+    margin-bottom: 300px;
+    
+}
+.kp{
+    color: white;
+}

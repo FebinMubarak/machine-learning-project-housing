@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mine</title>
+</head>
+<link rel="stylesheet" href="fb.css" type="text/css">
+<body>
+    <div class="mainbody">
+        <div class="container">
+            <div class="logo">
+                <a class="header" href="fb.html" >FM studios</a>
+
+            </div>
+            <div class="patient-name">
+                <form action="">
+                    <table class="controls">
+                        <tr>
+                            <td>Name</td>
+                            <td>Contact number</td>
+                        </tr>
+                        <tr>
+                            <td><input type="text"></td>
+                            <td><input type="number/text"></td>
+                            <td><input type="submit" value="submit "></td>
+                        </tr>
+                        <tr>
+                            <td>
+
+                            </td>
+                            <td>Enter name in block letters</td>
+                        </tr>
+                        
+
+                    </table>
+                </form>
+
+            </div>
+
+
+        </div>
+
+    </div>
+    
+    
+</body>
+</html>
